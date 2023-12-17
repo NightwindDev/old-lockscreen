@@ -1,0 +1,9 @@
+Package: daniel.old-lockscreen
+Name: old-lockscreen
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Nightwind
+Author: daniel
+Section: Tweaks
+Depends: mobilesubstrate
